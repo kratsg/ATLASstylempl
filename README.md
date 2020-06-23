@@ -1,5 +1,7 @@
 # ATLAS-style matplotlib
 
+This was migrated into [scikit-hep/mplhep](https://github.com/scikit-hep/mplhep). Please go there.
+
 ## Requirements
 
 ```
